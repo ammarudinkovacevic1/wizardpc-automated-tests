@@ -1,1 +1,0 @@
-# wizardpc-automated-tests
